@@ -4,9 +4,7 @@ const myPeer = new Peer(undefined, {
   host: '/',
   port: '3001'
 })
-//sdd
-/////aaa
-//sakkd
+
 
 const myVideo = document.createElement('video')
 myVideo.muted = true
